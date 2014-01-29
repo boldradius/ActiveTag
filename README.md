@@ -1,4 +1,4 @@
 activetag
 =========
 
-Safety and simplicity for rich web applications
+Please see tindr/ScalaTagDiff, which will soon be rebranded to ActiveTag.
